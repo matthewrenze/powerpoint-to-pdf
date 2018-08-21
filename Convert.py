@@ -39,5 +39,3 @@ slides.SaveAs(output_file_path, 32)
 
 #%% Close the slide deck
 slides.Close()
-
-input_file_path = "C:\\Users\\Matthew\\Dropbox\\Professional\\Software\\Prototypes\\PowerPoint to PDF\\Test.pptx"
