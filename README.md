@@ -1,13 +1,9 @@
 # PowerPoint to PDF
 
-Purpose: A Python script to convert PowerPoint (PPT/PPTX) files to Adobe PDF
+A set of Python scripts to convert PowerPoint (PPT/PPTX) files to Adobe PDF
 
-Author:  Matthew Renze
+- Convert.py - Converts a PowerPoint (PPT/PPTX) file into an Adobe PDF
+- ConvertAll.py - Converts all PowerPoint (PPT/PPTX) files in a folder into Adobe PDFs
+- ConvertHere.py - Converts all PowerPoint (PPT/PPTX) files the working folder into Adobe PDFs
 
-Usage:   python.exe Convert.py input-file output-file
-  - input-file = the PowerPoint file to be converted
-  - output-file = the Adobe PDF to be created
-
-Example: python.exe Convert.py C:\InputFile.pptx C:\OutputFile.pdf
-
-Note: Also works with PPTX file format
+Please see each script for full instructions on how to use the script.
